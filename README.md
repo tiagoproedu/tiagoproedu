@@ -1,16 +1,13 @@
-### Hi there 👋
+# Tiago da Silva Barbosa
 
-<!--
-**tiagoproedu/tiagoproedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>  ### Um pouco sobre mim:
+> * Idade: 21 anos
+> * Cursando Analise e Desenvolvimento de Sistemas
+> * Atualmente trabalho em uma empresa de contabilidade como técnico de T.I
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ **Meu objetivo com o curso é fazer uma transição de carreira e conseguir trabalhar de casa**
+
+>  ### Contatos:
+> *  [Instagram](https://www.instagram.com/tiagosilva.b/)
+> *  Email -> tiagoproedu@gmail.com
