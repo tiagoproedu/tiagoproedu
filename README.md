@@ -6,7 +6,7 @@
 > * Atualmente trabalho em uma empresa de contabilidade como técnico de T.I
 
 
- **Meu objetivo com o curso é fazer uma transição de carreira e conseguir trabalhar de casa**
+ **Estudando para ser um programador, atualmente faço um curso de full stack e python nas horas vagas**
 
 >  ### Contatos:
 > *  [Instagram](https://www.instagram.com/_t.i.ago_/)
