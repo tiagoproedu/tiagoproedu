@@ -1,7 +1,7 @@
 # Tiago da Silva Barbosa
 
 >  ### Um pouco sobre mim:
-> * Idade: 21 anos
+> * Idade: 22 anos
 > * Cursando Analise e Desenvolvimento de Sistemas
 > * Atualmente trabalho em uma empresa de contabilidade como técnico de T.I
 
