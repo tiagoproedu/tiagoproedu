@@ -3,7 +3,7 @@
 >  ### Um pouco sobre mim:
 > * Idade: 22 anos
 > * Cursando Analise e Desenvolvimento de Sistemas
-> * Atualmente trabalho em uma empresa de contabilidade como técnico de T.I
+> * Atualmente no 4° semestre de ADS e concluindo o curso de full stack da digital college
 
 
  **Estudando para ser um programador, atualmente faço um curso de full stack e python nas horas vagas**
