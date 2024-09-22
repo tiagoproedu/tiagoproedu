@@ -1,14 +1,17 @@
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQHgF4ZaBg-WvA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726531867937?e=1732752000&v=beta&t=Hn2HQjkvBNEGi6Xn2snCxuvGXK_dYUZTil1MNFjP6f0"  />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGN3dnB6bmR2NDBpcnMybG8xaHVoYnZucXhqeWRudXp6YTY4ZGRleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Tiago da Silva Barbosa</h1>
+<h2 align="center">Full-Stack Developer</h2>
 
 ###
 
-<h2 align="center">Full-Stack Developer</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagoproedu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoproedu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -24,10 +27,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/tiagoproedu/tiagoproedu/output/snake.svg" alt="Snake animation" />
 
 ###
 
