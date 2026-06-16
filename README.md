@@ -17,13 +17,13 @@
 <p align="center">
   🇧🇷 Sou o <b>Tiago Barbosa</b>, desenvolvedor full-stack e mobile de <b>Fortaleza-CE</b>.<br/>
   Construo aplicativos com <b>Flutter</b> e produtos web com <b>React</b> e <b>Node.js</b>.<br/>
-  Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho nos apps da <b>Viajá</b>.
+  Formado em Análise e Desenvolvimento de Sistemas, com <b>3 anos de experiência</b> no mercado, hoje atuando nos apps da <b>Viajá</b>.
 </p>
 
 <p align="center">
   🇺🇸 I'm <b>Tiago Barbosa</b>, a full-stack & mobile developer based in <b>Fortaleza, Brazil</b>.<br/>
   I build mobile apps with <b>Flutter</b> and web products with <b>React</b> and <b>Node.js</b>.<br/>
-  Currently studying Systems Analysis & Development and working on the <b>Viajá</b> apps.
+  Graduated in Systems Analysis & Development, with <b>3 years of experience</b>, now working on the <b>Viajá</b> apps.
 </p>
 
 ###
